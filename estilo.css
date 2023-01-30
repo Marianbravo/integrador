@@ -1,0 +1,139 @@
+body{
+    background-image:linear-gradient(90deg, #00dade6e 0%, #fb00ff8a 100%),url(https://thumbs.dreamstime.com/b/fondo-sagrado-de-los-s%C3%ADmbolos-y-de-los-elementos-de-la-geometr%C3%ADa-79635802.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#encabezado{
+    margin-top: 10px;
+    width: 1300px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00dade6e 0%, #fb00ff8a 100%),url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701923257.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#imagenPerfil{
+    width: 150px;
+}
+
+#perfilFoto{
+    width: 240px;
+    float: left;
+    border-radius: 1200px;
+}
+
+#titloPrincipal{
+    width: 400px;
+    text-align: left;
+    font-size: 55px;
+    border-style: solid;
+}
+
+#navegador{
+    width: 740px;
+    float: right;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;;
+}
+
+#lista{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.733);
+
+}
+
+#texto_lista{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+
+}
+#texto_lista:hover{
+    text-decoration: none;
+    color: gray;
+}
+section{
+    height: 1300px;
+}
+
+#sectionExt{
+    margin-top: 10px;
+    /* background-color: #eff1fa; */
+    width: 1300px;
+    height: 1000px;
+    border-radius: 20px;
+    background: linear-gradient(
+        360deg,
+        rgba(0, 61, 214, 0.48) 35%,
+        rgba(7, 81, 179, 0.13) 78%
+      );
+      background-blend-mode: normal;
+}
+
+#lateral{
+    background-color: rgb(114, 134, 224);
+    width: 400px;
+    height: 980px;
+    float: left;
+    margin-top: 10px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+}
+
+#listaLateral{
+    font-size: 18px;;
+}
+
+#info{
+    background-color: rgb(114, 134, 224);
+    width: 750px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: right;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    font-size: 18px;
+    text-align: center
+}
+
+#expTitulo{
+    font-weight: bold;
+}
+
+#titulo2, #titulo2a{
+    font-size: 24px;
+    font-weight: bolder ;
+}
+
+#localidad, #fechaNacimiento, #contacto {
+    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 55px;
+}
+
+#titulo1, #titulo2, #titulo3, #titulo4{
+font-weight: bolder;
+font-size: 26px;
+}
+
+#listaLateral1{
+    display: none;
+}
+
+#titulo2b{
+    font-size: 10px;
+}
